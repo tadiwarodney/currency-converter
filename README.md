@@ -18,7 +18,7 @@ A live currency converter built with Streamlit that converts currencies in real 
 
 ## Live Demo
 
-[Click here to see the app live](https://share.streamlit.io/tadiwarodney/currency-converter/main/app.py)
+[Click here to see the app live](https://the-best-currency-converter.streamlit.app/)
 
 ## App Review
 <img width="1191" height="968" alt="image" src="https://github.com/user-attachments/assets/0e33fb7f-283e-4998-90b2-d913f8f7d97c" />
@@ -37,6 +37,6 @@ A live currency converter built with Streamlit that converts currencies in real 
   ```streamlit run app.py```
 ### AUTHOR
 Tadiwa Muchuchuti
-Built and maintained as a portfolio project
+```Built and maintained as a portfolio project```
 
 

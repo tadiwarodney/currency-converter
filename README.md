@@ -37,6 +37,6 @@ A live currency converter built with Streamlit that converts currencies in real 
   ```streamlit run app.py```
 ### AUTHOR
 Tadiwa Muchuchuti
-Build and maintained as a portfolio project
+Built and maintained as a portfolio project
 
 
